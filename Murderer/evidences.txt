@@ -1,0 +1,4 @@
+1,found on the sofa,2023/12/10,DNA,Simon Petrikov
+2,he was seen there,2023/12/13,statement,John Doe
+3,a pair of glasses,2022/12/8,object,Simon Petrikov
+4,a set of keys,2023/12/14,object,Simon Petrikov

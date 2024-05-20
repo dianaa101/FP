@@ -1,0 +1,3 @@
+CI10,corp iluminat,Lampa Venetia,20.5,988
+CI11,canapea,Canapea Fulffy,1269.0,28
+CI12,canapea,Canapea Cake,1666.0,15
